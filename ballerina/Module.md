@@ -1,8 +1,16 @@
 ## Overview
-The Ballerina AWS SimpleDB provides the capability to manage domains in [AWS SimpleDB](https://aws.amazon.com/simpledb/).
+The AWS SimpleDB provides the capability to manage domains in [AWS SimpleDB](https://aws.amazon.com/simpledb/).
 
 This module supports [Amazon SimpleDB REST API](https://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/Welcome.html) `2009-04-15` version.
  
+
+### Key Features
+
+- Create and manage domains in AWS SimpleDB
+- Perform CRUD operations on items and attributes
+- Execute select queries across domains
+- Batch operations for bulk data management
+
 ## Prerequisites
 Before using this connector in your Ballerina application, complete the following:
 1. Create an [AWS account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=default&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
