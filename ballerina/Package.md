@@ -1,14 +1,15 @@
-Connects to AWS simpledb from Ballerina
+## Overview
 
-## Package overview
+[Amazon SimpleDB](https://aws.amazon.com/simpledb/) is a highly available and flexible non-relational database that allows developers to request and store data, with the service taking care of the rest.
 
-The `ballerinax/aws.simpledb` is a [Ballerina](https://ballerina.io/) connector for [AWS SimpleDB](https://aws.amazon.com/simpledb/). It enables Ballerina developers to perform AWS SimpleDB related operations programmatically through the module `ballerinax/aws.simpledb`. 
+The AWS SimpleDB connector enables developers to perform AWS SimpleDB related operations programmatically, providing a streamlined way to manage datasets within applications.
 
-### Compatibility
-|                     | Version            |  
-|---------------------|--------------------|
-| Ballerina Language  | Swan Lake 2201.8.0 |
-| Amazon SimpleDB API | 2009-04-15         |
+### Key Features
+
+- Flexible and high-availability non-relational data storage
+- Support for Amazon SimpleDB API version 2009-04-15
+- Efficient data request and storage management
+- Seamless integration with non-relational data models
 
 ## Report issues
 To report bugs, request new features, start new discussions, view project boards, etc., go to the [Ballerina Extended Library repository](https://github.com/ballerina-platform/ballerina-extended-library)
